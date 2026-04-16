@@ -1,0 +1,5 @@
+@layer border {
+  table, th, td {
+    border: 1px solid #cbd5e1; /* This makes the lines look like normal Excel lines */
+  }
+}
