@@ -9,7 +9,7 @@ const CLIENT_ID = "683400126186-f3a9u3fbe6l50bv1vidci7oinq7socn6.apps.googleuser
 const SCOPES = "https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/spreadsheets";
 
 export default function MobileResponsiveDPR() {
-  const [project, setProject] = useState("PROJECT");
+  const [project, setProject] = useState("FLORA VILLA-75E");
   const [isAdmin, setIsAdmin] = useState(true);
   const [isUploading, setIsUploading] = useState(false);
   const [accessToken, setAccessToken] = useState(() => sessionStorage.getItem('drive_token'));
