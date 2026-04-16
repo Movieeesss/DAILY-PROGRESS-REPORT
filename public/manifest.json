@@ -1,6 +1,6 @@
 {
-  "name": "Merge PDF",
-  "short_name": "Merge PDF Tool",
+  "name": "DPR TOOL",
+  "short_name": "DPR Tool",
   "description": "Professional Structural Design Tool",
   "start_url": "/",
   "display": "standalone",
